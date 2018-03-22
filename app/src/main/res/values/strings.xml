@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MF Burst 1.1</string>
+
+    <!--toolbar strings-->
+    <string name="action_camera">System Camera</string>
+    <string name="action_settings">Settings</string>
+
+    <!--value textView-->
+    <string name="xyVal">Value X, Value Y</string>
+
+
+</resources>
